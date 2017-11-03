@@ -6,8 +6,7 @@ What Is It?
 
 Based on this project: https://github.com/john2x/solarized-pygment
 
-This is a simple style for [Pygments][pygments_home] that is inspired by the
-[Solarized project][solarized_home] by Ethan Schoonover.
+This is a simple style for Pygments_ that is inspired by the Solarized_ project by Ethan Schoonover.
 
 This includes both the light and dark versions
 
@@ -17,7 +16,9 @@ How Do I Use It?
 
 Install it as a pygments plugin using the following command
 
-    ./setup.py install
+.. code-block:: bash
+
+    pip install pygments-solarized
 
 
 Acknoledgements
@@ -30,5 +31,9 @@ Acknoledgements
 Resources
 ---------
 
-[pygments_home]: http://pygments.org/
-[solarized_home]: http://ethanschoonover.com/solarized
+* Pygments_
+* Solarized_
+
+
+.. _Pygments: http://pygments.org/
+.. _Solarized: http://ethanschoonover.com/solarized
